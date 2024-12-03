@@ -7,5 +7,5 @@ x is package.-?
 ```
 const monorepoSandboxX = require('monorepo-sandbox-x');
 
-// TODO: DEMONSTRATE API
+// TODO: DEMONSTRATE API TESTFOO
 ```
